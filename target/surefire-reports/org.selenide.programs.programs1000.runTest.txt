@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.selenide.programs.programs1000.runTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.412 sec <<< FAILURE! - in org.selenide.programs.programs1000.runTest
+initializationError(org.selenide.programs.programs1000.runTest)  Time elapsed: 0.014 sec  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: C:\Users\anast\workspace\programs1000\src\test\java\cucumberJava
+
